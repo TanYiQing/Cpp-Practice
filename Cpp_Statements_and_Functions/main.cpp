@@ -19,7 +19,7 @@ int main()
     std::cout << "Sum Number: " << sum1 << std::endl;
 
     //Second Way
-    int sum2 = addNumbers(firstNum, secondNum);
+    int sum2 = addNumbers(20, 120);
     std::cout << "Sum Number: " << sum2 << std::endl;
 
     //Third Way
