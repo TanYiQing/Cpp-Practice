@@ -6,4 +6,4 @@ Compilers in this project:
 
 To use all of these compilers, you need to install these compilers. Then, the folder named .vscode folder whenever you create a new project.
 
-This repository is recorded the self learning process of myself on the new language that I never touched before --- C++.
+This repository recorded the self learning process of myself on the new language that I never touched before --- C++.
