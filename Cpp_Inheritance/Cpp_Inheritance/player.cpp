@@ -2,7 +2,7 @@
 #include "player.h"
 
 Player::Player(std::string_view game_param)
-    : m_game(game_param)
+    : m_game(game_param) // after the symbol : is Initializer list
 {
 }
 
