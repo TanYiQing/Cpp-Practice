@@ -12,7 +12,7 @@ public:
     Engineer();
     Engineer(std::string_view fullname, int age,
              std::string_view address, int contract_count);
-    Engineer(const Engineer &source);
+    Engineer(const Engineer &source); // Copy Constructor
     ~Engineer();
 
     void build_something()
