@@ -7,7 +7,7 @@
 int main(){
 
     Shape * shape_ptr = new Circle(10,"Circle1");
-    shape_ptr->draw(45,"Red");
+    // shape_ptr->draw(45,"Red"); //Compiler Error
 
     return 0;
 }
