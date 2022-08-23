@@ -14,6 +14,7 @@ void draw_shape_ref(const Shape &s_r) // Method that take in reference
 }
 int main()
 {
+    // If not using virtual, it will use the Shape class
     std::cout << std::endl;
     std::cout << "--------------------Not Good--------------------" << std::endl;
     Shape shape1("Shape 1");
